@@ -2,9 +2,9 @@
 <html>
 <body>
 
-<h1>Sitecore</h1>
+<h1>SitecoreCMTest</h1>
 
-<p>SitecoreCMTEST</p>
+<p>SitecoreCM is up and running</p>
 
 </body>
 </html>
